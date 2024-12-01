@@ -9,7 +9,7 @@ This project analyzes a taxi dataset using **NumPy**, showcasing the library's e
 - Extraction of insights such as busiest hours, most common destinations, and fare trends.
 - Performance comparisons of NumPy against traditional Python data structures.
 
-##Technologies
+## Technologies
 - Python: Programming language
 - NumPy: Numerical computations
 - Jupyter Notebook: For interactive analysis
